@@ -1,0 +1,11 @@
+{
+  "network": "primordial",
+  "chainId": "1043",
+  "PredictionLogger": {
+    "address": "0x3614a4da0Afa761CBC88ac55FCF8cA5B5435a9c7",
+    "deployer": "0x8732F4d3F2f91BbB19F061F119F397d5cbC17d3c",
+    "deploymentTime": "2025-09-28T03:59:28.760Z",
+    "blockNumber": 1044708,
+    "transactionHash": "0x2be82c356e748400f3c6af28f2a95ebae9b84f4e22721ceba43c617635ca9d71"
+  }
+}

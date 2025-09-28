@@ -1,0 +1,18 @@
+{
+  "displayName": "Blockchain Integration Tests",
+  "testMatch": ["**/tests/blockchain-integration.test.js"],
+  "setupFilesAfterEnv": ["<rootDir>/tests/blockchain-setup.js"],
+  "testTimeout": 120000,
+  "verbose": true,
+  "collectCoverage": false,
+  "testEnvironment": "node",
+  "clearMocks": false,
+  "resetMocks": false,
+  "restoreMocks": false,
+  "unmockedModulePathPatterns": [
+    "services/",
+    "routes/",
+    "models/",
+    "config/"
+  ]
+}
